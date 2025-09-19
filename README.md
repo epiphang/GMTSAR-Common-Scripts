@@ -1,0 +1,1 @@
+Some commonly used scripts for insar analysis in GMTSAR software are collected from different sources. Thank you to Professor Weitang from China University of Mining and Technology. Some tutorials can refer to: https://1ife1over.github.io/posts/InSAR-timeseries/
